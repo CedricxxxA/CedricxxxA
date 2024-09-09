@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CedricxxxA
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning IoT Developer in Azure
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cedric.achatz@plan-b-gmbh.com
 
